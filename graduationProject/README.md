@@ -1,4 +1,4 @@
-# business_card
+# smart college platform
 
 A new Flutter project.
 
